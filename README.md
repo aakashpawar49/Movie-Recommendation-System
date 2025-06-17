@@ -54,17 +54,14 @@ This system uses **content-based filtering** and **cosine similarity** to recomm
 
 ---
 
-## 📦 Setup Instructions
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/movie-recommender.git
-cd movie-recommender
+---
 
-# 2. Install dependencies
-pip install -r requirements.txt
+## 📷 Screenshots
 
-# 3. (Optional) Add your OMDb API key in the script
+![image](https://github.com/user-attachments/assets/64699ef8-55b6-44b4-9bfd-e56431fbf505)
 
-# 4. Run the Streamlit app
-streamlit run app.py
+![image](https://github.com/user-attachments/assets/3e1c4830-6bae-4798-a9cd-959b041312ce)
+
+
+---
